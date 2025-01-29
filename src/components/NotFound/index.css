@@ -1,0 +1,23 @@
+.not-found-bg {
+  background-color: #ffffff;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.not-found {
+  width: 380px;
+}
+.not-found-head {
+  color: #5a7184;
+  font-family: 'Roboto';
+  font-weight: 500;
+  margin: 0px;
+  padding-top: 20px;
+}
+.desc {
+  color: #5a7184;
+  font-family: 'Roboto';
+  font-size: 14px;
+}
